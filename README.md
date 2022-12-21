@@ -1,4 +1,6 @@
-## Projeto Calculator ![alt text](./iconCalculator.svg)
+                          Projeto Calculator
+
+![alt text](./projectFinish.png)
 ---
 Acesse aqui > [Calculator]() ➗➕➖✖️🟰
 
