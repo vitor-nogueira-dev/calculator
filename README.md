@@ -1,4 +1,4 @@
-                          Projeto Calculator
+Projeto Calculator
 
 ![alt text](./projectFinish.png)
 ---
