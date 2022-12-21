@@ -18,5 +18,5 @@ Acesse aqui > [Calculator]() ➗➕➖✖️🟰
 #### 🔗 Linkedin [@vitornogueira](https://www.linkedin.com/in/vitor-noqueira-913a9284/) ✅
 ---
 
-##### *Projeto extracurrilar 
+##### *Projeto extracurricular 
 
