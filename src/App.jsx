@@ -6,6 +6,11 @@ export default class App extends Component {
     return (
       <div className="App">
         <Calculator />
+        <footer>
+          <h2>
+            Calculator
+          </h2>
+        </footer>
       </div>
     )
   }
